@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,20 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "hello",
+      "dogBreed": "",
+      "id": 3
+    },
+    {
+      "dogName": "hello",
+      "dogBreed": "",
+      "id": 4
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +33,174 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "updateUserData": "Angela",
+      "id": 1
+    },
+    {
+      "updateUserData": [
+        "Angela",
+        "angpace00@gmail.com"
+      ],
+      "id": 2
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 3
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 4
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 5
+    },
+    {
+      "name": "Sylvia",
+      "email": "hello",
+      "id": 6
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 7
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 8
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 9
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 10
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 11
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 12
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 13
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 14
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 15
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 16
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 17
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 18
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 19
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 20
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 21
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 22
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 23
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 24
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 25
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 26
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 27
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 28
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 29
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 30
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 31
+    },
+    {
+      "name": "Angela",
+      "email": "angelapace96@aol.com",
+      "id": 32
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
